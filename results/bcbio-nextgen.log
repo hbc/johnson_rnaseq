@@ -1,0 +1,826 @@
+[2014-05-30 10:39] holy2a08203.rc.fas.harvard.edu: Using input YAML configuration: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/config/johnson.yaml
+[2014-05-30 10:39] holy2a08203.rc.fas.harvard.edu: Checking sample YAML configuration: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/config/johnson.yaml
+[2014-05-30 10:40] holy2a08203.rc.fas.harvard.edu: Unable to determine version for program 'AlienTrimmer' from jar file /n/hsphS10/hsphfs1/chb/local/share/java/AlienTrimmer/AlienTrimmer.jar
+[2014-05-30 10:40] holy2a08203.rc.fas.harvard.edu: Testing minimum versions of installed programs
+[2014-05-30 10:58] holy2a08203.rc.fas.harvard.edu: Timing: adapter trimming
+[2014-05-30 10:58] holy2a08203.rc.fas.harvard.edu: ipython: process_lane
+[2014-05-30 11:22] holy2a08203.rc.fas.harvard.edu: ipython: trim_lane
+[2014-05-30 15:22] holy2a08203.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009257_CGTACG_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009257_CGTACG_L008_R2.fastq.
+[2014-05-30 15:22] holy2a08103.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009253_ATTCCT_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009253_ATTCCT_L007_R2.fastq.
+[2014-05-30 15:22] holy2a08103.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009251_GATCAG_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009251_GATCAG_L007_R2.fastq.
+[2014-05-30 15:22] holy2a08103.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009252_GTTTCG_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009252_GTTTCG_L007_R2.fastq.
+[2014-05-30 15:22] holy2a02201.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009255_GTGGCC_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009255_GTGGCC_L007_R2.fastq.
+[2014-05-30 15:22] holy2a02201.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009254_TAGCTT_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009254_TAGCTT_L007_R2.fastq.
+[2014-05-30 15:22] holy2a06208.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009258_GAGTGG_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009258_GAGTGG_L008_R2.fastq.
+[2014-05-30 15:22] holy2a06208.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009259_ACTGAT_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009259_ACTGAT_L008_R2.fastq.
+[2014-05-30 15:22] holy2a06208.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008282_GCCAAT_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008282_GCCAAT_combined_R2.fastq.
+[2014-05-30 15:22] holy2a06208.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008281_ACAGTG_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008281_ACAGTG_combined_R2.fastq.
+[2014-05-30 15:22] holy2a06208.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008283_CAGATC_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008283_CAGATC_combined_R2.fastq.
+[2014-05-30 15:22] holy2a06208.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008284_AGTTCC_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008284_AGTTCC_combined_R2.fastq.
+[2014-05-30 15:22] holy2a13204.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008285_ATGTCA_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008285_ATGTCA_combined_R2.fastq.
+[2014-05-30 15:22] holy2a13204.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008286_CCGTCC_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008286_CCGTCC_combined_R2.fastq.
+[2014-05-30 15:22] holy2a02204.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009256_GGCTAC_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009256_GGCTAC_L008_R2.fastq.
+[2014-05-30 19:11] holy2a08203.rc.fas.harvard.edu: Timing: alignment
+[2014-05-30 19:11] holy2a08203.rc.fas.harvard.edu: ipython: process_alignment
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 2_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 3_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009253_ATTCCT_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009253_ATTCCT_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB035_promPositive/3_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:3 PL:illumina PU:3_2014-05-30_johnson SM:FB035_promPositive  --outSAMstrandField intronMotif
+May 30 19:11:53 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:54 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009252_GTTTCG_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009252_GTTTCG_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB033_lexPositive/2_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:2 PL:illumina PU:2_2014-05-30_johnson SM:FB033_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:53 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:54 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009253_ATTCCT_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009253_ATTCCT_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB035_promPositive/3_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:3 PL:illumina PU:3_2014-05-30_johnson SM:FB035_promPositive  --outSAMstrandField intronMotif
+May 30 19:11:53 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:54 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009252_GTTTCG_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009252_GTTTCG_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB033_lexPositive/2_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:2 PL:illumina PU:2_2014-05-30_johnson SM:FB033_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:53 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:54 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 8_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 9_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009259_ACTGAT_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009259_ACTGAT_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB035_lexPositive/9_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:9 PL:illumina PU:9_2014-05-30_johnson SM:FB035_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:57 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009259_ACTGAT_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009259_ACTGAT_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB035_lexPositive/9_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:9 PL:illumina PU:9_2014-05-30_johnson SM:FB035_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:57 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009258_GAGTGG_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009258_GAGTGG_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB035_negative/8_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:8 PL:illumina PU:8_2014-05-30_johnson SM:FB035_negative  --outSAMstrandField intronMotif
+May 30 19:11:57 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009258_GAGTGG_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009258_GAGTGG_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB035_negative/8_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:8 PL:illumina PU:8_2014-05-30_johnson SM:FB035_negative  --outSAMstrandField intronMotif
+May 30 19:11:57 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 10_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 11_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008281_ACAGTG_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008281_ACAGTG_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB017_negative/10_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:10 PL:illumina PU:10_2014-05-30_johnson SM:FB017_negative  --outSAMstrandField intronMotif
+May 30 19:11:58 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008281_ACAGTG_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008281_ACAGTG_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB017_negative/10_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:10 PL:illumina PU:10_2014-05-30_johnson SM:FB017_negative  --outSAMstrandField intronMotif
+May 30 19:11:58 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 12_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008282_GCCAAT_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008282_GCCAAT_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB017_lexPositive/11_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:11 PL:illumina PU:11_2014-05-30_johnson SM:FB017_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:58 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008282_GCCAAT_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008282_GCCAAT_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB017_lexPositive/11_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:11 PL:illumina PU:11_2014-05-30_johnson SM:FB017_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:58 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:58 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 13_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008283_CAGATC_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008283_CAGATC_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB017_promPositive/12_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:12 PL:illumina PU:12_2014-05-30_johnson SM:FB017_promPositive  --outSAMstrandField intronMotif
+May 30 19:11:58 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008283_CAGATC_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008283_CAGATC_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB017_promPositive/12_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:12 PL:illumina PU:12_2014-05-30_johnson SM:FB017_promPositive  --outSAMstrandField intronMotif
+May 30 19:11:58 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 14_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008284_AGTTCC_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008284_AGTTCC_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB018_negative/13_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:13 PL:illumina PU:13_2014-05-30_johnson SM:FB018_negative  --outSAMstrandField intronMotif
+May 30 19:11:59 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008284_AGTTCC_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008284_AGTTCC_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB018_negative/13_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:13 PL:illumina PU:13_2014-05-30_johnson SM:FB018_negative  --outSAMstrandField intronMotif
+May 30 19:11:59 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Aligning lane 15_2014-05-30_johnson with star aligner
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008285_ATGTCA_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008285_ATGTCA_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB018_lexPositive/14_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:14 PL:illumina PU:14_2014-05-30_johnson SM:FB018_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:59 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008285_ATGTCA_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008285_ATGTCA_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB018_lexPositive/14_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:14 PL:illumina PU:14_2014-05-30_johnson SM:FB018_lexPositive  --outSAMstrandField intronMotif
+May 30 19:11:59 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008286_CCGTCC_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008286_CCGTCC_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB018_promPositive/15_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:15 PL:illumina PU:15_2014-05-30_johnson SM:FB018_promPositive  --outSAMstrandField intronMotif
+May 30 19:11:59 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:11] holy2a02106.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008286_CCGTCC_combined_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005133_TRA00008286_CCGTCC_combined_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB018_promPositive/15_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:15 PL:illumina PU:15_2014-05-30_johnson SM:FB018_promPositive  --outSAMstrandField intronMotif
+May 30 19:11:59 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:11:59 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a13107.rc.fas.harvard.edu: Aligning lane 1_2014-05-30_johnson with star aligner
+[2014-05-30 23:12] holy2a13107.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009251_GATCAG_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009251_GATCAG_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB032_negative/1_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:1 PL:illumina PU:1_2014-05-30_johnson SM:FB032_negative  --outSAMstrandField intronMotif
+May 30 19:12:31 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:31 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a13107.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009251_GATCAG_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009251_GATCAG_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB032_negative/1_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:1 PL:illumina PU:1_2014-05-30_johnson SM:FB032_negative  --outSAMstrandField intronMotif
+May 30 19:12:31 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:31 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a18103.rc.fas.harvard.edu: Aligning lane 4_2014-05-30_johnson with star aligner
+[2014-05-30 23:12] holy2a06107.rc.fas.harvard.edu: Aligning lane 7_2014-05-30_johnson with star aligner
+[2014-05-30 23:12] holy2a06107.rc.fas.harvard.edu: Aligning lane 6_2014-05-30_johnson with star aligner
+[2014-05-30 23:12] holy2a18103.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009254_TAGCTT_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009254_TAGCTT_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB032_lexPositive/4_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:4 PL:illumina PU:4_2014-05-30_johnson SM:FB032_lexPositive  --outSAMstrandField intronMotif
+May 30 19:12:33 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:33 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a18103.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009254_TAGCTT_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009254_TAGCTT_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB032_lexPositive/4_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:4 PL:illumina PU:4_2014-05-30_johnson SM:FB032_lexPositive  --outSAMstrandField intronMotif
+May 30 19:12:33 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:33 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a06107.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009256_GGCTAC_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009256_GGCTAC_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB032_promPositive/6_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:6 PL:illumina PU:6_2014-05-30_johnson SM:FB032_promPositive  --outSAMstrandField intronMotif
+May 30 19:12:33 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:34 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a06107.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009257_CGTACG_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009257_CGTACG_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB033_promPositive/7_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:7 PL:illumina PU:7_2014-05-30_johnson SM:FB033_promPositive  --outSAMstrandField intronMotif
+May 30 19:12:33 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:34 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a06107.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009256_GGCTAC_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009256_GGCTAC_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB032_promPositive/6_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:6 PL:illumina PU:6_2014-05-30_johnson SM:FB032_promPositive  --outSAMstrandField intronMotif
+May 30 19:12:33 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:34 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a06107.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009257_CGTACG_L008_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005545_TRA00009257_CGTACG_L008_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB033_promPositive/7_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:7 PL:illumina PU:7_2014-05-30_johnson SM:FB033_promPositive  --outSAMstrandField intronMotif
+May 30 19:12:33 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:34 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a17304.rc.fas.harvard.edu: Aligning lane 5_2014-05-30_johnson with star aligner
+[2014-05-30 23:12] holy2a17304.rc.fas.harvard.edu: Uncaught exception occurred
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009255_GTGGCC_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009255_GTGGCC_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB033_negative/5_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:5 PL:illumina PU:5_2014-05-30_johnson SM:FB033_negative  --outSAMstrandField intronMotif
+May 30 19:12:35 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:36 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-05-30 23:12] holy2a17304.rc.fas.harvard.edu: Unexpected error
+Traceback (most recent call last):
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 38, in _setup_logging
+    yield None
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/distributed/ipythontasks.py", line 70, in process_alignment
+    return apply(lane.process_alignment, *args)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/lane.py", line 92, in process_alignment
+    data = align_to_sort_bam(fastq1, fastq2, aligner, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 60, in align_to_sort_bam
+    names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/pipeline/alignment.py", line 90, in _align_from_fastq
+    out = align_fn(fastq1, fastq2, align_ref, names, align_dir, data)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/ngsalign/star.py", line 39, in align
+    do.run(cmd.format(**locals()), run_message, None)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 23, in run
+    _do_run(cmd, checks, log_stdout)
+  File "/n/home05/kirchner/anaconda/envs/bcbio/lib/python2.7/site-packages/bcbio_nextgen-0.8.0a-py2.7.egg/bcbio/provenance/do.py", line 122, in _do_run
+    raise subprocess.CalledProcessError(exitcode, error_msg)
+CalledProcessError: Command 'set -o pipefail; /n/hsphS10/hsphfs1/chb/local/bin/STAR --genomeDir /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star --readFilesIn /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009255_GTGGCC_L007_R1_trimmed.fastq /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/trim/LIB005544_TRA00009255_GTGGCC_L007_R2_trimmed.fastq --runThreadN 16 --outFileNamePrefix /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/align/FB033_negative/5_2014-05-30_johnson --outReadsUnmapped Fastx --outFilterMultimapNmax 10 --outSAMunmapped Within --outSAMattributes NH HI NM MD AS --outSAMattrRGline ID:5 PL:illumina PU:5_2014-05-30_johnson SM:FB033_negative  --outSAMstrandField intronMotif
+May 30 19:12:35 ..... Started STAR run
+
+EXITING because of FATAL ERROR: could not open genome file /net/hsphfs1/srv/export/hsphfs1/share_root/chb/biodata/genomes/Hsapiens/GRCh37/star/Genome
+
+SOLUTION: check that the path to genome files, specified in --genomDir is correct and the files are present, and have user read permsissions
+
+May 30 19:12:36 ...... FATAL ERROR, exiting
+' returned non-zero exit status 105
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Using input YAML configuration: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/config/johnson.yaml
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Checking sample YAML configuration: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/config/johnson.yaml
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Testing minimum versions of installed programs
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: run local -- checkpoint passed: trimming
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Timing: adapter trimming
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: multiprocessing: process_lane
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: multiprocessing: trim_lane
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009251_GATCAG_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009251_GATCAG_L007_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009252_GTTTCG_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009252_GTTTCG_L007_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009253_ATTCCT_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009253_ATTCCT_L007_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009254_TAGCTT_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009254_TAGCTT_L007_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009255_GTGGCC_L007_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005544_TRA00009255_GTGGCC_L007_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009256_GGCTAC_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009256_GGCTAC_L008_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009257_CGTACG_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009257_CGTACG_L008_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009258_GAGTGG_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009258_GAGTGG_L008_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009259_ACTGAT_L008_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005545_TRA00009259_ACTGAT_L008_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008281_ACAGTG_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008281_ACAGTG_combined_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008282_GCCAAT_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008282_GCCAAT_combined_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008283_CAGATC_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008283_CAGATC_combined_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008284_AGTTCC_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008284_AGTTCC_combined_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008285_ATGTCA_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008285_ATGTCA_combined_R2.fastq.
+[2014-06-02 13:50] holy2a01101.rc.fas.harvard.edu: Trimming low quality ends and read through adapter sequence from /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008286_CCGTCC_combined_R1.fastq, /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/work/fastq/LIB005133_TRA00008286_CCGTCC_combined_R2.fastq.
+[2014-06-02 15:50] holy2a01101.rc.fas.harvard.edu: Timing: alignment
+[2014-06-02 15:50] holy2a01101.rc.fas.harvard.edu: ipython: process_alignment
+[2014-06-02 19:52] holy2a07303.rc.fas.harvard.edu: Aligning lane 7_2014-05-30_johnson with star aligner
+[2014-06-02 19:53] holy2a07301.rc.fas.harvard.edu: Aligning lane 1_2014-05-30_johnson with star aligner
+[2014-06-02 19:53] holy2a08108.rc.fas.harvard.edu: Aligning lane 4_2014-05-30_johnson with star aligner
+[2014-06-02 19:53] holy2a04207.rc.fas.harvard.edu: Aligning lane 3_2014-05-30_johnson with star aligner
+[2014-06-02 19:53] holy2a09108.rc.fas.harvard.edu: Aligning lane 6_2014-05-30_johnson with star aligner
+[2014-06-02 19:53] holy2a13301.rc.fas.harvard.edu: Aligning lane 2_2014-05-30_johnson with star aligner
+[2014-06-02 19:53] holy2a02201.rc.fas.harvard.edu: Aligning lane 5_2014-05-30_johnson with star aligner
+[2014-06-02 20:20] holy2a07301.rc.fas.harvard.edu: Aligning lane 8_2014-05-30_johnson with star aligner
+[2014-06-02 20:21] holy2a08108.rc.fas.harvard.edu: Aligning lane 9_2014-05-30_johnson with star aligner
+[2014-06-02 20:30] holy2a13301.rc.fas.harvard.edu: Aligning lane 10_2014-05-30_johnson with star aligner
+[2014-06-02 20:37] holy2a02201.rc.fas.harvard.edu: Aligning lane 11_2014-05-30_johnson with star aligner
+[2014-06-02 20:38] holy2a09108.rc.fas.harvard.edu: Aligning lane 12_2014-05-30_johnson with star aligner
+[2014-06-02 20:53] holy2a07303.rc.fas.harvard.edu: Aligning lane 13_2014-05-30_johnson with star aligner
+[2014-06-02 21:02] holy2a07301.rc.fas.harvard.edu: Aligning lane 14_2014-05-30_johnson with star aligner
+[2014-06-02 21:16] holy2a08108.rc.fas.harvard.edu: Aligning lane 15_2014-05-30_johnson with star aligner
+[2014-06-02 19:23] holy2a01101.rc.fas.harvard.edu: Timing: disambiguation
+[2014-06-02 19:23] holy2a01101.rc.fas.harvard.edu: ipython: run_disambiguate
+[2014-06-02 19:23] holy2a01101.rc.fas.harvard.edu: Timing: estimate expression
+[2014-06-02 19:23] holy2a01101.rc.fas.harvard.edu: ipython: generate_transcript_counts
+[2014-06-02 20:29] holy2a01101.rc.fas.harvard.edu: ipython: run_cufflinks
+[2014-06-03 05:45] holy2a01101.rc.fas.harvard.edu: Timing: quality control
+[2014-06-03 05:45] holy2a01101.rc.fas.harvard.edu: ipython: pipeline_summary
+[2014-06-03 09:46] holy2a05107.rc.fas.harvard.edu: Generating summary files: ['', 'FB018_negative']
+[2014-06-03 09:46] holy2a02201.rc.fas.harvard.edu: Generating summary files: ['', 'FB018_promPositive']
+[2014-06-03 09:46] holy2a02201.rc.fas.harvard.edu: Generating summary files: ['', 'FB017_promPositive']
+[2014-06-03 09:46] holy2a02201.rc.fas.harvard.edu: Generating summary files: ['', 'FB018_lexPositive']
+[2014-06-03 09:48] holy2a13201.rc.fas.harvard.edu: Generating summary files: ['', 'FB032_negative']
+[2014-06-03 09:48] holy2a02206.rc.fas.harvard.edu: Generating summary files: ['', 'FB035_negative']
+[2014-06-03 09:48] holy2a02206.rc.fas.harvard.edu: Generating summary files: ['', 'FB017_negative']
+[2014-06-03 09:48] holy2a02206.rc.fas.harvard.edu: Generating summary files: ['', 'FB033_promPositive']
+[2014-06-03 09:48] holy2a02206.rc.fas.harvard.edu: Generating summary files: ['', 'FB017_lexPositive']
+[2014-06-03 09:48] holy2a02206.rc.fas.harvard.edu: Generating summary files: ['', 'FB035_lexPositive']
+[2014-06-03 09:48] holy2a06205.rc.fas.harvard.edu: Generating summary files: ['', 'FB033_lexPositive']
+[2014-06-03 09:48] holy2a09106.rc.fas.harvard.edu: Generating summary files: ['', 'FB032_promPositive']
+[2014-06-03 09:48] holy2a09106.rc.fas.harvard.edu: Generating summary files: ['', 'FB032_lexPositive']
+[2014-06-03 09:48] holy2a09106.rc.fas.harvard.edu: Generating summary files: ['', 'FB033_negative']
+[2014-06-03 09:48] holy2a09106.rc.fas.harvard.edu: Generating summary files: ['', 'FB035_promPositive']
+[2014-06-03 07:40] holy2a01101.rc.fas.harvard.edu: Timing: finished
+[2014-06-03 07:40] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_negative/qc
+[2014-06-03 07:40] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_negative/FB032_negative-ready.bam
+[2014-06-03 07:41] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_negative/FB032_negative-ready.bam.bai
+[2014-06-03 07:41] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_negative/FB032_negative-ready.counts
+[2014-06-03 07:41] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_negative/cufflinks
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/programs.txt
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen-commands.log
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/project-summary.yaml
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/combined.counts
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/annotated_combined.counts
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_lexPositive/qc
+[2014-06-03 07:42] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_lexPositive/FB033_lexPositive-ready.bam
+[2014-06-03 07:43] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_lexPositive/FB033_lexPositive-ready.bam.bai
+[2014-06-03 07:43] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_lexPositive/FB033_lexPositive-ready.counts
+[2014-06-03 07:43] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_lexPositive/cufflinks
+[2014-06-03 07:43] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:43] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_promPositive/qc
+[2014-06-03 07:43] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_promPositive/FB035_promPositive-ready.bam
+[2014-06-03 07:45] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_promPositive/FB035_promPositive-ready.bam.bai
+[2014-06-03 07:45] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_promPositive/FB035_promPositive-ready.counts
+[2014-06-03 07:45] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_promPositive/cufflinks
+[2014-06-03 07:45] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:45] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_lexPositive/qc
+[2014-06-03 07:45] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_lexPositive/FB032_lexPositive-ready.bam
+[2014-06-03 07:46] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_lexPositive/FB032_lexPositive-ready.bam.bai
+[2014-06-03 07:46] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_lexPositive/FB032_lexPositive-ready.counts
+[2014-06-03 07:46] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_lexPositive/cufflinks
+[2014-06-03 07:46] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:46] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_negative/qc
+[2014-06-03 07:46] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_negative/FB033_negative-ready.bam
+[2014-06-03 07:48] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_negative/FB033_negative-ready.bam.bai
+[2014-06-03 07:48] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_negative/FB033_negative-ready.counts
+[2014-06-03 07:48] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_negative/cufflinks
+[2014-06-03 07:48] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:48] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_promPositive/qc
+[2014-06-03 07:48] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_promPositive/FB032_promPositive-ready.bam
+[2014-06-03 07:50] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_promPositive/FB032_promPositive-ready.bam.bai
+[2014-06-03 07:50] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_promPositive/FB032_promPositive-ready.counts
+[2014-06-03 07:50] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB032_promPositive/cufflinks
+[2014-06-03 07:51] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:51] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_promPositive/qc
+[2014-06-03 07:51] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_promPositive/FB033_promPositive-ready.bam
+[2014-06-03 07:53] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_promPositive/FB033_promPositive-ready.bam.bai
+[2014-06-03 07:53] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_promPositive/FB033_promPositive-ready.counts
+[2014-06-03 07:53] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB033_promPositive/cufflinks
+[2014-06-03 07:53] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:53] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_negative/qc
+[2014-06-03 07:53] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_negative/FB035_negative-ready.bam
+[2014-06-03 07:54] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_negative/FB035_negative-ready.bam.bai
+[2014-06-03 07:54] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_negative/FB035_negative-ready.counts
+[2014-06-03 07:54] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_negative/cufflinks
+[2014-06-03 07:54] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:54] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_lexPositive/qc
+[2014-06-03 07:54] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_lexPositive/FB035_lexPositive-ready.bam
+[2014-06-03 07:56] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_lexPositive/FB035_lexPositive-ready.bam.bai
+[2014-06-03 07:56] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_lexPositive/FB035_lexPositive-ready.counts
+[2014-06-03 07:56] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB035_lexPositive/cufflinks
+[2014-06-03 07:56] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 07:56] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_negative/qc
+[2014-06-03 07:57] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_negative/FB017_negative-ready.bam
+[2014-06-03 08:02] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_negative/FB017_negative-ready.bam.bai
+[2014-06-03 08:02] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_negative/FB017_negative-ready.counts
+[2014-06-03 08:02] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_negative/cufflinks
+[2014-06-03 08:02] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 08:02] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_lexPositive/qc
+[2014-06-03 08:02] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_lexPositive/FB017_lexPositive-ready.bam
+[2014-06-03 08:06] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_lexPositive/FB017_lexPositive-ready.bam.bai
+[2014-06-03 08:06] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_lexPositive/FB017_lexPositive-ready.counts
+[2014-06-03 08:06] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_lexPositive/cufflinks
+[2014-06-03 08:07] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 08:07] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_promPositive/qc
+[2014-06-03 08:07] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_promPositive/FB017_promPositive-ready.bam
+[2014-06-03 08:09] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_promPositive/FB017_promPositive-ready.bam.bai
+[2014-06-03 08:09] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_promPositive/FB017_promPositive-ready.counts
+[2014-06-03 08:09] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB017_promPositive/cufflinks
+[2014-06-03 08:09] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 08:09] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_negative/qc
+[2014-06-03 08:10] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_negative/FB018_negative-ready.bam
+[2014-06-03 08:12] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_negative/FB018_negative-ready.bam.bai
+[2014-06-03 08:12] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_negative/FB018_negative-ready.counts
+[2014-06-03 08:12] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_negative/cufflinks
+[2014-06-03 08:12] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 08:12] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_lexPositive/qc
+[2014-06-03 08:12] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_lexPositive/FB018_lexPositive-ready.bam
+[2014-06-03 08:16] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_lexPositive/FB018_lexPositive-ready.bam.bai
+[2014-06-03 08:16] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_lexPositive/FB018_lexPositive-ready.counts
+[2014-06-03 08:16] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_lexPositive/cufflinks
+[2014-06-03 08:16] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
+[2014-06-03 08:16] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_promPositive/qc
+[2014-06-03 08:16] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_promPositive/FB018_promPositive-ready.bam
+[2014-06-03 08:22] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_promPositive/FB018_promPositive-ready.bam.bai
+[2014-06-03 08:22] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_promPositive/FB018_promPositive-ready.counts
+[2014-06-03 08:22] holy2a01101.rc.fas.harvard.edu: Storing directory in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/FB018_promPositive/cufflinks
+[2014-06-03 08:22] holy2a01101.rc.fas.harvard.edu: Storing in local filesystem: /net/hsphfs1/srv/export/hsphfs1/share_root/chb/projects/johnson_rnaseq/johnson/final/2014-05-30_johnson/bcbio-nextgen.log
